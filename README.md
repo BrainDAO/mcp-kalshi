@@ -29,7 +29,7 @@ npx @iqai/mcp-kalshi
 ### 🔧 Build from Source
 
 ```bash
-git clone https://github.com/IQAIcom/mcp-kalshi.git
+git clone https://github.com/IQOfficial/mcp-kalshi.git
 cd mcp-kalshi
 pnpm install
 pnpm run build
